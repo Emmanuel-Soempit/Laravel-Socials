@@ -1,0 +1,18 @@
+Users table (register, login,)
+user
+id
+name
+email
+password
+
+Posts table
+id
+user_id
+title
+content
+
+Comments table
+id
+post_id
+user_id
+comment
